@@ -1,10 +1,11 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function Profile() {
+export default function TodoForm({isNew}) {
+
   return (
     <View>
-      <Text>profile</Text>
+      <Text>Update</Text>
     </View>
   )
 }
