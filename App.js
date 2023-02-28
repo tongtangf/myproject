@@ -4,7 +4,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import landing from './src/pages/index/landing';
 
 export default function App() {
-
+//test
   const Stack = createNativeStackNavigator();
 
   return (
