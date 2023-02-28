@@ -1,0 +1,73 @@
+[
+    {
+        "date": "27/02/2023",
+        "todo-list": [
+            {
+                "section": "Mobile Application",
+                "detail": "Present Figma app",
+                "time": "8:00",
+                "location": "Kasetsart U.",
+                "username": "test",
+                "status":"in-progress"
+            },
+            {
+                "section": "Study Fusal",
+                "detail": "Details",
+                "time": "13:00",
+                "location": "Kasetsart U.",
+                "username": "test",
+                "status":"cancel"
+            },
+            {
+                "section": "Study Fusal",
+                "detail": "Details",
+                "time": "13:00",
+                "location": "Kasetsart U.",
+                "username": "example_2",
+                "status":"cancel"
+            }
+        ]
+    },
+    {
+        "date": "28/02/2023",
+        "todo-list": [
+            {
+                "section": "Mobile Application",
+                "detail": "Present Figma app",
+                "time": "8:00",
+                "location": "Kasetsart U.",
+                "username": "test",
+                "status":"in-progress"
+            },
+            {
+                "section": "Study Fusal",
+                "detail": "Details",
+                "time": "13:00",
+                "location": "Kasetsart U.",
+                "username": "test",
+                "status":"in-progress"
+            }
+        ]
+    },
+    {
+        "date": "unknow",
+        "todo-list": [
+            {
+                "section": "Mobile Application",
+                "detail": "Present Figma app",
+                "time": "",
+                "location": "Kasetsart U.",
+                "username": "test",
+                "status":"in-progress"
+            },
+            {
+                "section": "Study Fusal",
+                "detail": "Details",
+                "time": "",
+                "location": "Kasetsart U.",
+                "username": "test",
+                "status":"in-progress"
+            }
+        ]
+    }
+]
